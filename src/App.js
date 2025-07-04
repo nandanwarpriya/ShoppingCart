@@ -20,7 +20,7 @@ function App() {
     },
     {
       id:3,
-      name:'LG 7kg Washing Machine',
+      name:'LG 7kg TopLoad Washing Machine',
       price:20000,
       image:'https://m.media-amazon.com/images/I/71BZCfuDANL._SY500_.jpg'
 

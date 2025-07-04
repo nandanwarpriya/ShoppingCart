@@ -4,8 +4,8 @@ function SearchComponent ({ searchProduct,productSearchUserFunction}) {
     return(
         <header className="App-header">
             <h1>Shopping Cart</h1>
-            <div className="search-div">
-                <input className="search-bar" 
+            <div className="search-bar">
+                <input 
                 type="text"
                 placeholder="search for products..."
                 value={searchProduct.searchProduct}
